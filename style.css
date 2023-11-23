@@ -1,0 +1,47 @@
+body {
+    background: url(rodape.png.png);
+}
+
+#cabecario {
+    text-align: center;
+    border: 5px solid gray;
+    background: gray;
+    padding-bottom: 65px;
+}
+
+ 
+#sub_t {
+    font-size: 26px;
+    color: red;
+    margin-top: 10px;
+}
+
+#titulo {
+    font-size: 36px;
+}
+
+#principal {
+    text-align: center;
+
+
+}
+
+#imagens {
+    width: 1349px;
+    height: 953px;
+}
+
+
+#final {
+    text-align: center;
+    border: 5px solid gray;
+    background: gray;
+    padding: 45px;
+    color: black;
+}
+
+#final_1 {
+    margin-top: 10px;
+    font-size: 26px;
+    color: black;
+}
